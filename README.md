@@ -8,7 +8,6 @@ Features
 - Ability to choose the overwrite method between Blanks / Random Data / a User Defined Ascii Character.
 - Ability to remove files on directories and subdirectories.
 - The user can choose file(s) or directory. The latest supposes that all files of the specific dir will be deleted.
-- A Registry entry is given (a Reg file) in order to run the program from Explorer by Right Click.
 - Completely removes Data as well as Filename from Disk.
 - No setup is needed, you get just a single executable.
 - Overcomes the 2Gb file size barrier. Files with any size can be deleted in a very short time.
