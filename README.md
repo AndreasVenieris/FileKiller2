@@ -1,5 +1,6 @@
 # FileKiller2
 It completely removes a file from your disk without leaving any track.
+The program is my upgraded version of FileKiller 1, I created to Sourceforge (https://sourceforge.net/projects/filekiller/).
 
 Features
 - High Performance deletions.
