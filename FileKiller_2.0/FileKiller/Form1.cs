@@ -478,7 +478,7 @@ namespace FileKiller
                 if (!isDatabufferNumber)
                 {
                     MsgResult = "Invalid DataBuffer defined in settings. Please redefine!";
-                    return -1; 
+                    return -1;
                 }
                 int iDataBuffer = Convert.ToInt32(sDataBuffer);
 
@@ -586,7 +586,7 @@ namespace FileKiller
                                 //dataGridView1.Rows[atLine].Cells["Info"].Value = sMsg;
 
                             }
-                            if (iDirCurrent == -1 ) // The Caller is a single file.
+                            if (iDirCurrent == -1) // The Caller is a single file.
                             {
                                 sMsg = "Killing [%{0}]...Buffer {1}/{2}, Write {3} times...";
                                 sMsg = string.Format(sMsg,
@@ -602,7 +602,7 @@ namespace FileKiller
                                 sMsg = string.Format(sMsg,
                                                        iDirCurrent,
                                                        iDirAll,
-                                                       (((iDirCurrent+1) * 100) / (iDirAll)).ToString("F0"),
+                                                       (((iDirCurrent + 1) * 100) / (iDirAll)).ToString("F0"),
                                                        iCurrentBufferRead,
                                                        iNumOfBufferReads,
                                                        numericUpDown1.Value
@@ -638,7 +638,7 @@ namespace FileKiller
                     File.Move(filename, newName);
 
                     //Delete the file now.
-                    File.Delete(newName); 
+                    File.Delete(newName);
 
                 }
                 catch (Exception e)

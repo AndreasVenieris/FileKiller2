@@ -35,3 +35,12 @@ C:\AJV\Programs\C#\FileKiller_2.0\FileKiller\bin\Debug\FileKiller.exe
 C:\AJV\Programs\C#\FileKiller_2.0\FileKiller\bin\Debug\FileKiller.pdb
 C:\AJV\Programs\C#\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.exe
 C:\AJV\Programs\C#\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.pdb
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\bin\Debug\FileKiller.exe.config
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.exe
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.pdb
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\bin\Debug\FileKiller.exe
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\bin\Debug\FileKiller.pdb
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.About1.resources
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.Form1.resources
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.Properties.Resources.resources
+C:\AJV\Programs\Git\FileKiller2\FileKiller_2.0\FileKiller\obj\Debug\FileKiller.csproj.GenerateResource.Cache
