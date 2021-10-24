@@ -19,4 +19,5 @@ Requirements
 - Windows 7, 8.x, 10, 11.
 
 WARNNING I: Be carefull when deleting files since after deletion the recovery is not possible!!
+
 WARNNING II: A complete deletion on SSDs / Flash Drives is not guaranted, unless a complete overwrite on the disk empty space is performed (after file deletion).  
