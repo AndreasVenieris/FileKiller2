@@ -2,7 +2,7 @@
 It completely removes a file from your disk without leaving any track.
 The program is my upgraded version of FileKiller 1, I created to Sourceforge (https://sourceforge.net/projects/filekiller/).
 
-Features
+**Features**
 - High Performance deletions.
 - Ability to choose the number of overwrite iterations (1 to 100).
 - Ability to choose the overwrite method between Blanks / Random Data / a User Defined Ascii Character.
@@ -14,9 +14,11 @@ Features
 - Overcomes the 2Gb file size barrier. Files with any size can be deleted in a very short time.
 - It uses threats so the user can choose more files while others beign deleted.
 
-Requirements
+**Requirements**
 - Requires .net framewrok 4.0
 - Windows 7, 8.x, 10, 11.
 
-WARNNING I: Be carefull when deleting files since after deletion the recovery is not possible!!
-WARNNING II: A complete deletion on SSDs / Flash Drives is not guaranted, unless a complete overwrite on the disk empty space is performed (after file deletion).  
+---
+**WARNNING I**: Be carefull when deleting files since after deletion the recovery is not possible!!
+
+**WARNNING II**: A complete deletion on SSDs / Flash Drives is not guaranted, unless a complete overwrite on the disk empty space is performed (after file deletion).  
