@@ -12,7 +12,7 @@ The program is my upgraded version of FileKiller 1, I created to Sourceforge (ht
 - Completely removes Data as well as Filename from Disk.
 - No setup is needed, you get just a single executable.
 - Overcomes the 2Gb file size barrier. Files with any size can be deleted in a very short time.
-- It uses threats so the user can choose more files while others beign deleted.
+- It uses threads so the user can choose more files while others beign deleted.
 
 **Requirements**
 - Requires .net framewrok 4.0
